@@ -1,6 +1,6 @@
 # Next.js TypeScript Example
 
-POC migrating a Nex.js app to TypeScript.
+POC refactoring a Nex.js app to TypeScript.
 
 Started off `nextjs-blog` template app.
 
